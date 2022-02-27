@@ -18,4 +18,4 @@ Output variable:
 
 12. quality (score between 0 and 10)
 
-In this module, we'll be performing EDA on Red Wine data, you can then practice the things you learnt on White Wine data.
+In this module, we'll be performing EDA on Red Wine data.
